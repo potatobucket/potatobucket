@@ -1,4 +1,19 @@
-### Hi there 👋
+### A humble code spud. 🥔
+
+## Skills
+ - Python
+ - GDScript
+ - Some very, very basic HTML I remember learning in high school
+
+## Currently working on
+ - A "pull a name out of a hat" type program for deciding the order of a given list of names
+ - Learning more about coding
+
+## Currently learning
+ - Webhooks (basics)
+ - Ren'Py
+ - How much I don't know
+
 
 <!--
 **potatobucket/potatobucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
