@@ -7,6 +7,7 @@
 
 ## Currently working on
  - A "pull a name out of a hat" type program for deciding the order of a given list of names
+ - A refactor of my video poker game that might actually work
  - Learning more about coding
 
 ## Currently learning
