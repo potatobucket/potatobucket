@@ -3,14 +3,15 @@
 ## Skills
  - Python
  - GDScript
+ - The ability to read as much documentation as it takes
  - Some very, very basic HTML I remember learning in high school
 
 ## Currently working on
- - Learning more about coding
+ - Getting my feet wet with Arduino
+ - Writing Python code to facilitate smooth workflow with Arduino
 
 ## Currently learning
- - Webhooks (basics)
- - Ren'Py
+ - Arduino/C++
  - How much I don't know
 
 
