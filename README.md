@@ -5,7 +5,6 @@
  - GDScript
  - Tenacity
  - The ability to read as much documentation as it takes
- - Some very, very basic HTML I remember learning in high school
 
 ## Coming Soon
  - SQL Project
