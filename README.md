@@ -7,13 +7,11 @@
  - The ability to read as much documentation as it takes
  - Some very, very basic HTML I remember learning in high school
 
-## Currently working on
- - Getting my feet wet with Arduino
- - Writing Python code to facilitate smooth workflow with Arduino
+## Coming Soon
+ - SQL Project
+ - Capstone Project
+ - Excel Project
 
-## Currently learning
- - Arduino/C++
- - How much I don't know
 
 
 <!--
