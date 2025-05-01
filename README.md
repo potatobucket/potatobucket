@@ -9,7 +9,6 @@
 ## Coming Soon
  - SQL Project
  - Capstone Project
- - Excel Project
 
 
 
