@@ -6,6 +6,9 @@
  - Tenacity
  - The ability to read as much documentation as it takes
 
+## Completed Projects
+ - [Mock Data Analysis and Visualization for Fictional Media Company Social Buzz](https://github.com/potatobucket/Forage-Project)
+
 ## Coming Soon
  - SQL Project
  - Capstone Project
