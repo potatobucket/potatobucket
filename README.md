@@ -8,9 +8,9 @@
 
 ## Completed Projects
  - [Mock Data Analysis and Visualization for Fictional Media Company Social Buzz](https://github.com/potatobucket/Forage-Project)
+ - [BigQuery Data Analysis of Homeless Continuum of Care centers between 2012 and 2018 using US Department of Housing and Urban Development Data](https://github.com/potatobucket/SQL-Project)
 
 ## Coming Soon
- - SQL Project
  - Capstone Project
 
 
