@@ -4,7 +4,7 @@
  - Python
  - GDScript
  - SQL
- - Some R
+ - R
  - The ability to read as much documentation as it takes
 
 ## Completed Projects
