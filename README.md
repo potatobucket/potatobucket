@@ -3,6 +3,7 @@
 ## Skills
  - Python
  - GDScript
+ - Data analysis
  - SQL
  - R
  - The ability to read as much documentation as it takes
