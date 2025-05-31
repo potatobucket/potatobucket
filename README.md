@@ -6,6 +6,7 @@
  - Data analysis
  - SQL
  - R
+ - Google Sheets
  - The ability to read as much documentation as it takes
 
 ## Completed Projects
