@@ -14,7 +14,7 @@
  - [BigQuery Data Analysis of Homeless Continuum of Care centers between 2012 and 2018 using US Department of Housing and Urban Development Data](https://github.com/potatobucket/SQL-Project)
 
 ## Coming Soon
- - Capstone Project
+ - [Capstone Project](https://github.com/potatobucket/Capstone-Project)
 
 
 
