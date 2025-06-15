@@ -14,7 +14,6 @@
  - [Mock Data Analysis and Visualization for Fictional Media Company Social Buzz](https://github.com/potatobucket/Forage-Project)
  - [BigQuery Data Analysis of Homeless Continuum of Care centers between 2012 and 2018 using US Department of Housing and Urban Development Data](https://github.com/potatobucket/SQL-Project)
  - [My Analysis of My Job Search: A data analytics capstone project](https://github.com/potatobucket/Capstone-Project)
- - 
 <!--
 **potatobucket/potatobucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
