@@ -1,6 +1,10 @@
 ### A humble code spud. 🥔 The King of Beatboxing. 👑
 #### Certified data analyst
 
+## Currently learning:
+ - Linux
+ - Raspberry Pi
+
 ## Skills
  - Python
  - GDScript
