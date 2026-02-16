@@ -4,6 +4,7 @@
 ## Currently learning:
  - Linux
  - Raspberry Pi
+ - Bash
 
 ## Skills
  - Python
